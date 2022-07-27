@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\bin\Debug\net6.0\uc-1-LinkedList.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\bin\Debug\net6.0\uc-1-LinkedList.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\bin\Debug\net6.0\uc-1-LinkedList.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\bin\Debug\net6.0\uc-1-LinkedList.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\bin\Debug\net6.0\uc-1-LinkedList.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\refint\uc-1-LinkedList.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\uc-1-LinkedList.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-1-LinkedList\obj\Debug\net6.0\ref\uc-1-LinkedList.dll
