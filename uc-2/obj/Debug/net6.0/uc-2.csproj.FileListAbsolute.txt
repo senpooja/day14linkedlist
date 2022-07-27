@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\bin\Debug\net6.0\uc-2.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\bin\Debug\net6.0\uc-2.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\bin\Debug\net6.0\uc-2.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\bin\Debug\net6.0\uc-2.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\bin\Debug\net6.0\uc-2.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\refint\uc-2.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\uc-2.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-2\obj\Debug\net6.0\ref\uc-2.dll
