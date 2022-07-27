@@ -1,0 +1,5 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-3\obj\Debug\net6.0\uc-3.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-3\obj\Debug\net6.0\uc-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-3\obj\Debug\net6.0\uc-3.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-3\obj\Debug\net6.0\uc-3.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day14LinkList\uc-3\obj\Debug\net6.0\uc-3.csproj.CoreCompileInputs.cache
